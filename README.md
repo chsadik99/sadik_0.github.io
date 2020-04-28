@@ -1,2 +1,2 @@
-# sadik_0.github.io
+ sadik_0.github.io
 Project0
