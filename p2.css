@@ -1,0 +1,42 @@
+#tab {
+			  border: 1px solid;
+			  padding-left: 2%;
+			  padding-bottom: 0.5%;
+			  padding-top: -2%;
+			  border-color:orange;
+			  border-radius: 10px;
+			  margin-top: 2%;
+			  margin-left: 13%;
+			  margin-right: 15%;
+			  color:red;
+			  background-color: #1b1d40;
+			  font-size: 140%;
+			}
+			 th, td {
+
+			  border-collapse: collapse;
+			  font-size: 150%;
+			  border-bottom: 1px solid green;
+			  padding-left: auto;
+			  margin-right: 14%;
+			  padding: 1%;
+			  align-content: center;
+			}
+			tr, td {
+
+			  border-bottom: 1px solid orange;
+			  font-size: 100%;
+			  padding: 1%;
+			  margin-right: 14%;
+			  padding-top: 3%;
+			}
+
+			.c{
+				table-layout: 80%;
+				width: 80%;
+				margin-right: 14%;
+			}
+			#box{
+				margin-right: 14%;
+			}
+			
